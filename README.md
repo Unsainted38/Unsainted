@@ -24,3 +24,7 @@ C++/Qt console service for spectrum analyzer control, telemetry and RPC command 
 
 ### bks_server
 C++/Qt TCP proxy server for hardware device control.
+
+### Contacts
+email: erik.veraksich@yandex.ru
+telegram: @erik.veraksich
